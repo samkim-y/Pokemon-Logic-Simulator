@@ -1,10 +1,10 @@
 # Pokemon-Logic-Simulator
 
 ## About the Project
-Python Object Oriented Programming (OOP) Project creating a text-based game which simulates the real game mechanics/logic of the Pokemon game 
-(using mainly simplified Gen 1 mechanics and formulas). 
+Python Object Oriented Programming (OOP) Project designing a text-based simulation of the core game mechanics of the Generation I Pokemon game.
+Features key components such as character creation, Pokemon selection, turn-based battle system, etc
 
-Through OOP, models for Trainers, Pokemon, Items are created with unique attributes used in game mechanics such as pokemon battles
+Through OOP, models for Trainers, Pokemon, Items are created with unique attributes, stats and abilities which are used in to simulate realistic game mechanics such as battles and interactions
 
 
 
